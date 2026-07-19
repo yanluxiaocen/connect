@@ -1,4 +1,5 @@
 #include <iostream>
+#include<string>
 
 using namespace std;
 
@@ -14,5 +15,6 @@ int main()
         cout << "well" << i << endl;
     }
     getchar();
+
     return 0;
 }
