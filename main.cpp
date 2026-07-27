@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    cout << "come here" << endl;
+    cout << "Come here" << endl;
     cout << "I found you" << endl;
     getchar();
 
